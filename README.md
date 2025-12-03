@@ -14,3 +14,14 @@ Approach
 Time Complexity  
 O(n) — each lookup in the hashmap is O(1)
 
+Space complexity 
+O(n)
+
+Example 
+Input:
+2 7 11 15
+9
+
+Output:
+Indices: [0, 1]
+Numbers: 2 + 7 = 9
